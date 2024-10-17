@@ -1,6 +1,6 @@
-# CharNeRF: 3D Character Generation from Concept Art [1]
+# CharNeRF: 3D Character Generation from Concept Art 
 For the research project on Procedural Content Generation for Games using Machine Learning Techniques in NUS/Riot Games Singpapore.
-The published paper can be found [here](https://arxiv.org/pdf/2402.17115).
+The published paper can be found [here](https://arxiv.org/pdf/2402.17115) [1].
 Note: this is an empty repository created for evaluator to see our qualitative results. Actual repository is private currently.
 
 ## Table of Contents
