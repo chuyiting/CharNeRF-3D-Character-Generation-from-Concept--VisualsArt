@@ -1,7 +1,14 @@
-# 3D-Humanoid-Virtual-Game-Character-Generation-from-2D-Concept-Art
+# CharNeRF: 3D Character Generation from Concept Art [1]
 For the research project on Procedural Content Generation for Games using Machine Learning Techniques in NUS/Riot Games Singpapore.
+The published paper can be found [here](https://arxiv.org/pdf/2402.17115).
 Note: this is an empty repository created for evaluator to see our qualitative results. Actual repository is private currently.
 
+## Table of Contents
+
+- [Visuals](#visuals)
+- [Reference](#reference)
+
+## Visuals
 NeRF reconstruction from 3 source views (concept art views)
 credit: https://www.mixamo.com/
 
@@ -103,4 +110,7 @@ credit/source: https://www.pinterest.com/pin/189784571789670978/
   <img src="https://user-images.githubusercontent.com/59797323/230575342-25b9763b-f74c-4ab4-aa3e-fb9db8ab2523.png" width="200" />
   <img src="https://user-images.githubusercontent.com/59797323/230697757-c2c61bde-8f2b-4a47-9c5b-e7477a928e64.gif" width="200" />
 </p>
+
+## Reference
+[1]: Chu, E., Chen, Y., Raissi, C., & Bhojan, A. (2024). CharNeRF: 3D Character Generation from Concept Art. In *2024 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)* (pp. 185–194). IEEE. [http://dx.doi.org/10.1109/AIxVR59861.2024.00031](http://dx.doi.org/10.1109/AIxVR59861.2024.00031).
 
